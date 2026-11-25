@@ -36,9 +36,6 @@ export const metadata = {
     description:
       'Scalable full-stack web applications and SEO-friendly websites built with Python, Django, React, Next.js, and PostgreSQL.',
   },
-  icons: {
-    icon: '/favicon.png',
-  },
 };
 
 export default function RootLayout({ children }) {
