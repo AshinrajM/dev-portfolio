@@ -1,0 +1,10 @@
+{
+  "description": "Explore Ashin Raj M.’s full-stack development portfolio, featuring production web projects, technical expertise, and a direct way for recruiters and clients to connect.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
